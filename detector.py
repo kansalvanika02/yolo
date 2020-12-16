@@ -13,7 +13,7 @@ import cv2
 
 
 # video = 0 # for camera
-video ='input/people.mp4'
+video ='input1/people.mp4'
 output = 'output.mp4'
 confidence = 0.9
 find = 'person'
